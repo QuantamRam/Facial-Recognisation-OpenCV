@@ -49,18 +49,4 @@ Before diving in, make sure you've got your developer toolkit ready:
 
 
 
-   face-recognition-opencv-cpp/
-│
-├── CMakeLists.txt      # CMake configuration file (the brains behind the build)
-├── src/
-│   ├── main.cpp        # Main source code (where all the action happens)
-│   ├── FaceRecognizer.cpp # Face recognition logic (the real MVP)
-│   └── FaceRecognizer.h   # Header file for FaceRecognizer (because we love organized code)
-├── data/
-│   └── images/         # Training images (where your face lives)
-├── models/
-│   └── face_model.xml  # Trained model (don't delete this unless you enjoy retraining)
-├── build/              # Compiled build files (no peeking necessary)
-├── README.md           # This file (the one you're reading, duh)
-└── .gitignore          # Files and directories to ignore in the repository (because not everything is meant to be shared)
-
+   
